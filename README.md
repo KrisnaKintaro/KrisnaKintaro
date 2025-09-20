@@ -1,5 +1,5 @@
 # 💫 About Me:
-<div align="center">
+<div align="left">
   👋 Hi, I'm a passionate developer <br/>
   🎓 Currently studying Politeknik Negeri Malang <br/>
   💻 Learning Python & PHP right now <br/>
@@ -26,7 +26,6 @@
 </p>
 </div>
 
-# 💻 Tech Stack:
 # 💻 Tech Stack:
 
 <p align="center">
