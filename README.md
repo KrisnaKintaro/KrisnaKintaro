@@ -9,7 +9,20 @@
 
 ## 🌐 Socials:
 <div align="center">
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/NaQ5eXpT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@krisna_kintaro) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@krisantaro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krisnakintaro1256@gmail.com) 
+<p align="center">
+  <a href="https://discord.gg/https://discord.gg/NaQ5eXpT">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/@krisna_kintaro">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@@krisantaro">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"/>
+  </a>
+  <a href="mailto:krisnakintaro1256@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 </div>
 
 # 💻 Tech Stack:
