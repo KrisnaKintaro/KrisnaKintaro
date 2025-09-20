@@ -1,11 +1,12 @@
 # 💫 About Me:
-<div align="left">
-  👋 Hi, I'm a passionate developer  
-  🎓 Currently studying Politeknik Negeri Malang  
-  💻 Learning Python & PHP right now  
-  🚀 Love building apps & solving problems  
+<div align="center">
+  👋 Hi, I'm a passionate developer <br/>
+  🎓 Currently studying Politeknik Negeri Malang <br/>
+  💻 Learning Python & PHP right now <br/>
+  🚀 Love building apps & solving problems <br/>
   🌱 Always open to collaboration  
 </div>
+
 
 ## 🌐 Socials:
 <div align="center">
