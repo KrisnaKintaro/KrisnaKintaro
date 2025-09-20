@@ -63,13 +63,14 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" style="max-width: 400px;">
     </td>
     <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=KrisnaKintaro&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=KrisnaKintaro&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%" style="max-width: 400px;">
     </td>
   </tr>
 </table>
+
 
 
 [![](https://visitcount.itsvg.in/api?id=KrisnaKintaro&icon=2&color=3)](https://visitcount.itsvg.in)
