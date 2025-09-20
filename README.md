@@ -58,11 +58,19 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KrisnaKintaro&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  ### ✍️ Random Dev Quote    |    🔝 Top Contributed Repo
-  --- | ---
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) | ![](https://github-contributor-stats.vercel.app/api?username=KrisnaKintaro&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-</div>
+## ✍️ Random Dev Quote & 🔝 Top Contributed Repo
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=KrisnaKintaro&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+    </td>
+  </tr>
+</table>
+
 
 [![](https://visitcount.itsvg.in/api?id=KrisnaKintaro&icon=2&color=3)](https://visitcount.itsvg.in)
 
